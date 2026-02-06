@@ -1,6 +1,6 @@
-<img width="402" height="887" alt="Screenshot 2026-02-06 091034" src="https://github.com/user-attachments/assets/9753af4d-f8d1-49df-b7c3-46a608b88104" /><h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:           </h3>
-<h3>Register Number/Staff Id:          </h3>
+<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h3>Name: GOKUL PRASAD H          </h3>
+<h3>Register Number: 212224050011          </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -278,6 +278,13 @@ if __name__ == "__main__":
 ```
 
 # OUTPUT:
+<img width="362" height="561" alt="Screenshot 2026-02-06 091416" src="https://github.com/user-attachments/assets/9b623780-006c-48d8-a173-ec372745db20" /> <BR>
+
+<img width="311" height="242" alt="Screenshot 2026-02-06 091443" src="https://github.com/user-attachments/assets/c90c0911-3b45-4595-9618-677d9c9e88e8" /> <BR>
+
+<img width="314" height="424" alt="Screenshot 2026-02-06 091523" src="https://github.com/user-attachments/assets/4660d0f6-8b76-4f04-a7c9-9882c07677b2" /> <BR>
+
+
 
 
 
